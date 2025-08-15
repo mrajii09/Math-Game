@@ -8,10 +8,13 @@
 - Allows the user to select between addition, subtraction, multiplication, and division.
 - Randomly selects numbers and prints them on a screen (decently decorated) so the user can answer
 - Takes in user input for the answer and a submit button that checks answers.
+- Displays results and the correct answer (answer only shown if the user was incorrect)
+- After submission, the submit button is temporarily disabled until refreshed to prevent cheating/spamming.
 - Refresh button to generate new numbers
+- Exception handling, the code will not accept anything other than numbers
 
 ## Why I Built It
-I built this math game to test my knowledge of basic python and explore new aspects of the language. Recently, I have just completed a
+I built this math game to test my knowledge of basic Python and explore new aspects of the language. Recently, I have just completed a
 course about the basics of programming, which was a solid foundation. However, I soon grew tired of making boring, visually unappealing
 programs. I also felt extremely limited as I could only use one file for code, and I didn't know anything beyond simple console programs.
 I made this app as a challenge to push my knowledge. For the first time, I used multiple different files to piece the program together
@@ -23,5 +26,4 @@ and built the app while learning tkinter.
 
 
 ## Future Improvements
-- I believe I am done working with this project as I am satisfied. It was a great learning journey and a great starting point, but I am going
-- to focus on future projects
+- I believe I am done working with this project for now as I am satisfied. It was a great learning journey and a great starting point, but I am going to focus on future projects. To me this project was more of a "step-in-a-new-direction" rather than a long-term one.
